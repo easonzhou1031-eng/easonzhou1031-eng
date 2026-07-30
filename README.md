@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**easonzhou1031-eng/easonzhou1031-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="1279" height="799" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/38c4eb0a-f260-4327-821f-4e5d0cf7efc0" />
 
 <div align="center">
