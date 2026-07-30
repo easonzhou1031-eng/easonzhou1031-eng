@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Hi%2C+I'm+AsusaShizuku+%F0%9F%91%8B;TypeScript+%26+PHP+Developer;German+Main+in+War+Thunder+%F0%9F%A4%AB" alt="Typing SVG" />
-</a>
+
 
 </div>
 
@@ -18,14 +16,7 @@
 > 
 > <sub>*(实际上：320+ 小时老兵 / 德系陆战狂刷 Leopard 2A5 中 / EF2000 (AESA) 狂热爱好者 ✈️🇩🇪)*</sub>
 
----
-
-### 🚀 我的项目 (Projects)
-
-- 🤖 **[SyntaxSenpai](https://github.com/easonzhou1031-eng/SyntaxSenpai)** — 专为程序员打造的二次元 AI 伴侣/恋爱应用，让 AI Agent 住进你的设备。
-- 📚 **[Moodle-HBSS-](https://github.com/easonzhou1031-eng/Moodle-HBSS-)** — 正在维护与优化的软件项目。
-
----
+--
 
 ### 🛠️ 常用技术栈 (Tech Stack)
 
