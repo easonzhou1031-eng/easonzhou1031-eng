@@ -2,15 +2,49 @@
 
 <!--
 **easonzhou1031-eng/easonzhou1031-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1279" height="799" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/38c4eb0a-f260-4327-821f-4e5d0cf7efc0" />
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Hi%2C+I'm+AsusaShizuku+%F0%9F%91%8B;TypeScript+%26+PHP+Developer;German+Main+in+War+Thunder+%F0%9F%A4%AB" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### ⚠️ 关于我的声明 (Disclaimer)
+
+> *"I do not play War Thunder, indeed."* — **AsusaShizuku**
+> 
+> <sub>*(实际上：320+ 小时老兵 / 德系陆战狂刷 Leopard 2A5 中 / EF2000 (AESA) 狂热爱好者 ✈️🇩🇪)*</sub>
+
+---
+
+### 🚀 我的项目 (Projects)
+
+- 🤖 **[SyntaxSenpai](https://github.com/easonzhou1031-eng/SyntaxSenpai)** — 专为程序员打造的二次元 AI 伴侣/恋爱应用，让 AI Agent 住进你的设备。
+- 📚 **[Moodle-HBSS-](https://github.com/easonzhou1031-eng/Moodle-HBSS-)** — 正在维护与优化的软件项目。
+
+---
+
+### 🛠️ 常用技术栈 (Tech Stack)
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW55M3g2Znd4OGtpdnkydndqOWRtbndyMjZyeDRxeTY4N3BmejM2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmuVlZpStyQ8y6hLBs/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=easonzhou1031-eng&show_icons=true&theme=tokyonight" alt="easonzhou1031-eng's github stats" />
+</p>
 -->
