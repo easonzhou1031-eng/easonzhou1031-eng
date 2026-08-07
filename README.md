@@ -15,6 +15,7 @@
 > *"I do not play War Thunder, indeed."* — **AsusaShizuku**
 > 
 > <sub>*(Yes actually：350+hr German main, grinding Leopard2A5 and USA, ID:AlphaDragon1031)*</sub>
+> <sub>*(Subscribe Nachoneko!! :3 )*</sub>
 
 --
 
