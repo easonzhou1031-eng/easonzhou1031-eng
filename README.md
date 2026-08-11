@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6534e70-5db2-4acd-8cb6-e0fb75648e7b" width="100%" alt="Header Banner" />
-</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZuaG8za2xsNm0ybngycjR5Mzlpd2szMmlveTFlZ2ZrdzhrbnI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmuVlZpStyQ8y6hLBs/giphy.gif" width="180" alt="Nachoneko GIF" />
+</p>
 ## Hi there 👋
 
 ### ⚠️ Disclaimer :3
