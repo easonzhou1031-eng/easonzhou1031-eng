@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZuaG8za2xsNm0ybngycjR5Mzlpd2szMmlveTFlZ2ZrdzhrbnI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmuVlZpStyQ8y6hLBs/giphy.gif" width="180" alt="Nachoneko GIF" />
-</p>
+<img width="1543" height="868" alt="nacho-neko-nekoha-shizuku-gray-hair-blue-hair-cat-girl-hd-wallpaper-eed4e2efd8a65a0868cec5490bf72a16" src="https://github.com/user-attachments/assets/1c072a0e-fd48-4190-974d-0eab7baff386" />
 ## Hi there 👋
 
 ### ⚠️ Disclaimer :3
