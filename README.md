@@ -4,7 +4,7 @@
 
 ### ⚠️ Disclaimer :3
 
-> *"I do not play War Thunder, indeed."* — **AsusaShizuku**
+> *"Recon Report, enemy spotted [A5]"* — **YAY warthunder time!!**
 > 
 > <sub>*(Yes actually: 350+hr German main, grinding Leopard 2A5 & USA | ID: AlphaDragon1031)*</sub>  
 > <sub>*(Subscribe Nachoneko!! :3)*</sub>
