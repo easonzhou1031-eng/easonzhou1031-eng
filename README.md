@@ -10,7 +10,7 @@
 > 
 > <sub>*(Yes actually: 350+hr German main, grinding Leopard 2A5 & USA | ID: AlphaDragon1031)*</sub>  
 > <sub>*(Subscribe Nachoneko!! :3)*</sub>
-<img width="1279" height="798" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/267312e9-d65b-4fce-9a55-190eaa45e45c" />
+<img width="1200" height="760" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/267312e9-d65b-4fce-9a55-190eaa45e45c" />
 
 ---
 ### 🛠️ Tech Stack
@@ -32,13 +32,13 @@
 ---
 <div align="center">
 
-| 🏆 VEX V5RC Just to know me|
+| 🏆 VEX V5RC =Just to know me=|
 | :---: |
-| 🏅 **Team #10188S** \| Ex-#51188A & #51188M Driver |
-| <sub>*2026 - 2027 Season*</sub> |
+| 🏅 **Team #10188S** \| Ex-#51188A & #51188M |
+| <sub>*2022-2023 till 2026 - 2027 Season*</sub> |
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easonzhou1031-eng&show_icons=true&theme=tokyonight" alt="easonzhou1031-eng's github stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=easonzhou1031-eng&show_icons=true&theme=tokyonight&include_all_commits=true" alt="github stats" />
 </p>
