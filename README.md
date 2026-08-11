@@ -2,14 +2,15 @@
 
 <div align="center">
 
-| 🏆 VEX V5RC Innovation Award |
+| 🏆 VEX V5RC Just to know me|
 | :---: |
 | 🏅 **Team #10188S** \| Ex-#51188A & #51188M Driver |
 | <sub>*2026 - 2027 Season*</sub> |
 
 </div>
 
----
+---![Uploading 屏幕截图 2026-06-25 222803.png…]()
+
 
 ### ⚠️ Disclaimer :3
 
