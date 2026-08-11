@@ -9,7 +9,10 @@
 
 </div>
 
----![Uploading 屏幕截图 2026-06-25 222803.png…]()
+---
+
+<img width="1279" height="799" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/267312e9-d65b-4fce-9a55-190eaa45e45c" />
+
 
 
 ### ⚠️ Disclaimer :3
