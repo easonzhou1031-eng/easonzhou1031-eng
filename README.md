@@ -13,7 +13,7 @@
 <img width="1200" height="760" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/267312e9-d65b-4fce-9a55-190eaa45e45c" />
 
 ---
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack(yeah, forgot to put on the JAVA, too lazy ./
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
