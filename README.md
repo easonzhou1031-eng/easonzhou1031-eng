@@ -6,14 +6,14 @@
 
 ### ⚠️ Disclaimer :3
 
-> *"Recon Report, enemy spotted [A5]"* — **YAY warthunder time!!**
+> *"Recon Report, enemy spotted [A5]"* — **Warthunder time!!**
 > 
-> <sub>*(Yes actually: 350+hr German main, grinding Leopard 2A5 & USA | ID: AlphaDragon1031)*</sub>  
+> <sub>*(Im 350+hr German main, grinding Leopard 2A5 & USA | ID: AlphaDragon1031)*</sub>  
 > <sub>*(Subscribe Nachoneko!! :3)*</sub>
 <img width="1200" height="760" alt="屏幕截图 2026-06-25 222803" src="https://github.com/user-attachments/assets/267312e9-d65b-4fce-9a55-190eaa45e45c" />
 
 ---
-### 🛠️ Tech Stack(yeah, forgot to put on the JAVA, too lazy ./
+### 🛠️ Tech Stack(sry, forgot to put on the JAVA, too lazy ./
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
