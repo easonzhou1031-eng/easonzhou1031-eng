@@ -25,10 +25,11 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
->  **=AI-Powered Development Paradigm=**
+  >  **=AI-Powered Development Paradigm=**
 > *  **Claude, btw can someone buy me a max plssss QAQ**: Used for complex logic brainstorming, auton agent design, system architecture, and deep code refactoring.
 > *  **GitHub Copilot，yes and i use the free ver**: Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration,(sometimes it's better than the claude.?
+
+</p>
 
 ---
 <div align="center">
