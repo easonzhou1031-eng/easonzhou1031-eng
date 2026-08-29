@@ -15,8 +15,6 @@
 ---
 ### 🛠️ Tech Stack(sry, forgot to put on the JAVA, too lazy ./
 
-### 🛠️ Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,13 +29,13 @@
 
 ---
 
-### AI-Powered Development Paradigm
-
-* <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" valign="middle" /> *(btw can someone buy me a max plssss QAQ)*  
-  Used for complex logic brainstorming, autonomous agent design, system architecture, and deep code refactoring.
-
-* <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" valign="middle" /> *(yes and I use the free ver，no $$$ anymore)*  
-  Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?).
+> ###  AI-Powered Development Paradigm
+> 
+> <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" valign="middle" /> *(btw can someone buy me a max plssss QAQ)*  
+> <sub>Used for complex logic brainstorming, autonomous agent design, system architecture, and deep code refactoring.</sub>
+> 
+> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" valign="middle" /> *(yes and I use the free ver, no $$$ anymore)*  
+> <sub>Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?).</sub>
 
 ---
 <div align="center">
