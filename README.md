@@ -35,7 +35,7 @@
 > <sub>Used for complex logic brainstorming, autonomous agent design, system architecture, and deep code refactoring.</sub>
 > 
 > <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" valign="middle" /> *(yes and I use the free ver, no $$$ anymore)*  
-> <sub>Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?).</sub>
+> <sub>Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?)，and it's freeeee.</sub>
 
 ---
 <div align="center">
