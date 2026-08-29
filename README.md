@@ -15,6 +15,8 @@
 ---
 ### 🛠️ Tech Stack(sry, forgot to put on the JAVA, too lazy ./
 
+### 🛠️ Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,16 +24,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-> ⚡ **AI-Powered Development Paradigm**
-> *  **Claude** *(btw can someone buy me a max plssss QAQ)*: Used for complex logic brainstorming, autonomous agent design, system architecture, and deep code refactoring.
-> *  **GitHub Copilot** *(yes and I use the free ver)*: Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?).
+---
+
+### AI-Powered Development Paradigm
+
+* <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" valign="middle" /> *(btw can someone buy me a max plssss QAQ)*  
+  Used for complex logic brainstorming, autonomous agent design, system architecture, and deep code refactoring.
+
+* <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" valign="middle" /> *(yes and I use the free ver，no $$$ anymore)*  
+  Leveraged for real-time code auto-completion, unit test generation, and seamless IDE integration (sometimes it's better than Claude?).
 
 ---
 <div align="center">
